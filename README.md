@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | Full Stack Developer | DevOps Enthusiast</h3>
 
 <p align="center">
-✉️ muhammadyahyariaz810@gmail.com &nbsp;|&nbsp;
+muhammadyahyariaz810@gmail.com &nbsp;|&nbsp;
 </p>
 
 <p align="center">
