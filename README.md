@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://github.com/YahyaRiaz"><img src="https://img.shields.io/badge/GitHub-YahyaRiaz-181717?style=flat&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="www.linkedin.com/in/muhammad-yahya-riaz-66024826a"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="mailto:muhammadyahyariaz810@gmail.com"><img src="https://img.shields.io/badge/Email-muhammadyahyariaz810%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
